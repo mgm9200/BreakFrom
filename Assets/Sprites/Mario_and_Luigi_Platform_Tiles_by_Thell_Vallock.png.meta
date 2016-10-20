@@ -1,0 +1,3894 @@
+fileFormatVersion: 2
+guid: 3ce49893d041ad84eaf04d5c75ff2d0b
+timeCreated: 1476128061
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_0
+    21300002: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_1
+    21300004: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_2
+    21300006: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_3
+    21300008: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_4
+    21300010: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_5
+    21300012: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_6
+    21300014: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_7
+    21300016: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_8
+    21300018: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_9
+    21300020: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_10
+    21300022: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_11
+    21300024: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_12
+    21300026: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_13
+    21300028: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_14
+    21300030: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_15
+    21300032: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_16
+    21300034: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_17
+    21300036: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_18
+    21300038: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_19
+    21300040: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_20
+    21300042: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_21
+    21300044: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_22
+    21300046: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_23
+    21300048: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_24
+    21300050: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_25
+    21300052: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_26
+    21300054: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_27
+    21300056: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_28
+    21300058: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_29
+    21300060: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_30
+    21300062: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_31
+    21300064: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_32
+    21300066: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_33
+    21300068: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_34
+    21300070: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_35
+    21300072: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_36
+    21300074: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_37
+    21300076: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_38
+    21300078: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_39
+    21300080: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_40
+    21300082: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_41
+    21300084: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_42
+    21300086: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_43
+    21300088: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_44
+    21300090: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_45
+    21300092: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_46
+    21300094: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_47
+    21300096: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_48
+    21300098: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_49
+    21300100: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_50
+    21300102: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_51
+    21300104: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_52
+    21300106: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_53
+    21300108: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_54
+    21300110: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_55
+    21300112: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_56
+    21300114: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_57
+    21300116: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_58
+    21300118: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_59
+    21300120: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_60
+    21300122: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_61
+    21300124: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_62
+    21300126: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_63
+    21300128: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_64
+    21300130: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_65
+    21300132: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_66
+    21300134: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_67
+    21300136: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_68
+    21300138: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_69
+    21300140: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_70
+    21300142: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_71
+    21300144: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_72
+    21300146: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_73
+    21300148: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_74
+    21300150: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_75
+    21300152: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_76
+    21300154: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_77
+    21300156: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_78
+    21300158: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_79
+    21300160: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_80
+    21300162: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_81
+    21300164: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_82
+    21300166: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_83
+    21300168: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_84
+    21300170: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_85
+    21300172: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_86
+    21300174: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_87
+    21300176: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_88
+    21300178: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_89
+    21300180: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_90
+    21300182: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_91
+    21300184: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_92
+    21300186: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_93
+    21300188: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_94
+    21300190: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_95
+    21300192: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_96
+    21300194: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_97
+    21300196: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_98
+    21300198: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_99
+    21300200: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_100
+    21300202: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_101
+    21300204: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_102
+    21300206: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_103
+    21300208: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_104
+    21300210: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_105
+    21300212: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_106
+    21300214: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_107
+    21300216: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_108
+    21300218: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_109
+    21300220: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_110
+    21300222: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_111
+    21300224: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_112
+    21300226: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_113
+    21300228: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_114
+    21300230: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_115
+    21300232: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_116
+    21300234: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_117
+    21300236: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_118
+    21300238: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_119
+    21300240: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_120
+    21300242: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_121
+    21300244: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_122
+    21300246: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_123
+    21300248: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_124
+    21300250: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_125
+    21300252: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_126
+    21300254: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_127
+    21300256: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_128
+    21300258: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_129
+    21300260: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_130
+    21300262: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_131
+    21300264: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_132
+    21300266: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_133
+    21300268: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_134
+    21300270: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_135
+    21300272: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_136
+    21300274: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_137
+    21300276: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_138
+    21300278: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_139
+    21300280: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_140
+    21300282: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_141
+    21300284: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_142
+    21300286: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_143
+    21300288: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_144
+    21300290: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_145
+    21300292: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_146
+    21300294: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_147
+    21300296: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_148
+    21300298: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_149
+    21300300: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_150
+    21300302: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_151
+    21300304: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_152
+    21300306: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_153
+    21300308: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_154
+    21300310: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_155
+    21300312: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_156
+    21300314: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_157
+    21300316: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_158
+    21300318: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_159
+    21300320: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_160
+    21300322: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_161
+    21300324: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_162
+    21300326: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_163
+    21300328: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_164
+    21300330: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_165
+    21300332: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_166
+    21300334: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_167
+    21300336: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_168
+    21300338: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_169
+    21300340: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_170
+    21300342: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_171
+    21300344: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_172
+    21300346: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_173
+    21300348: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_174
+    21300350: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_175
+    21300352: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_176
+    21300354: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_177
+    21300356: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_178
+    21300358: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_179
+    21300360: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_180
+    21300362: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_181
+    21300364: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_182
+    21300366: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_183
+    21300368: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_184
+    21300370: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_185
+    21300372: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_186
+    21300374: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_187
+    21300376: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_188
+    21300378: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_189
+    21300380: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_190
+    21300382: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_191
+    21300384: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_192
+    21300386: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_193
+    21300388: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_194
+    21300390: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_195
+    21300392: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_196
+    21300394: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_197
+    21300396: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_198
+    21300398: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_199
+    21300400: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_200
+    21300402: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_201
+    21300404: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_202
+    21300406: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_203
+    21300408: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_204
+    21300410: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_205
+    21300412: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_206
+    21300414: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_207
+    21300416: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_208
+    21300418: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_209
+    21300420: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_210
+    21300422: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_211
+    21300424: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_212
+    21300426: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_213
+    21300428: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_214
+    21300430: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_215
+    21300432: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_216
+    21300434: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_217
+    21300436: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_218
+    21300438: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_219
+    21300440: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_220
+    21300442: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_221
+    21300444: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_222
+    21300446: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_223
+    21300448: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_224
+    21300450: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_225
+    21300452: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_226
+    21300454: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_227
+    21300456: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_228
+    21300458: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_229
+    21300460: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_230
+    21300462: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_231
+    21300464: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_232
+    21300466: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_233
+    21300468: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_234
+    21300470: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_235
+    21300472: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_236
+    21300474: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_237
+    21300476: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_238
+    21300478: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_239
+    21300480: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_240
+    21300482: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_241
+    21300484: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_242
+    21300486: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_243
+    21300488: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_244
+    21300490: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_245
+    21300492: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_246
+    21300494: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_247
+    21300496: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_248
+    21300498: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_249
+    21300500: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_250
+    21300502: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_251
+    21300504: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_252
+    21300506: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_253
+    21300508: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_254
+    21300510: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_255
+    21300512: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_256
+    21300514: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_257
+    21300516: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_258
+    21300518: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_259
+    21300520: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_260
+    21300522: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_261
+    21300524: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_262
+    21300526: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_263
+    21300528: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_264
+    21300530: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_265
+    21300532: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_266
+    21300534: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_267
+    21300536: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_268
+    21300538: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_269
+    21300540: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_270
+    21300542: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_271
+    21300544: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_272
+    21300546: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_273
+    21300548: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_274
+    21300550: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_275
+    21300552: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_276
+    21300554: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_277
+    21300556: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_278
+    21300558: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_279
+    21300560: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_280
+    21300562: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_281
+    21300564: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_282
+    21300566: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_283
+    21300568: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_284
+    21300570: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_285
+    21300572: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_286
+    21300574: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_287
+    21300576: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_288
+    21300578: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_289
+    21300580: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_290
+    21300582: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_291
+    21300584: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_292
+    21300586: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_293
+    21300588: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_294
+    21300590: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_295
+    21300592: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_296
+    21300594: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_297
+    21300596: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_298
+    21300598: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_299
+    21300600: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_300
+    21300602: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_301
+    21300604: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_302
+    21300606: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_303
+    21300608: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_304
+    21300610: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_305
+    21300612: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_306
+    21300614: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_307
+    21300616: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_308
+    21300618: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_309
+    21300620: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_310
+    21300622: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_311
+    21300624: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_312
+    21300626: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_313
+    21300628: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_314
+    21300630: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_315
+    21300632: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_316
+    21300634: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_317
+    21300636: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_318
+    21300638: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_319
+    21300640: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_320
+    21300642: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_321
+    21300644: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_322
+    21300646: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_323
+    21300648: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_324
+    21300650: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_325
+    21300652: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_326
+    21300654: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_327
+    21300656: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_328
+    21300658: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_329
+    21300660: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_330
+    21300662: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_331
+    21300664: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_332
+    21300666: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_333
+    21300668: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_334
+    21300670: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_335
+    21300672: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_336
+    21300674: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_337
+    21300676: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_338
+    21300678: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_339
+    21300680: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_340
+    21300682: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_341
+    21300684: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_342
+    21300686: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_343
+    21300688: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_344
+    21300690: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_345
+    21300692: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_346
+    21300694: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_347
+    21300696: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_348
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 298
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 298
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 298
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 298
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 298
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 298
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 298
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 298
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 298
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 298
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 298
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 298
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_15
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 298
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 298
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 281
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_28
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_30
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 281
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_34
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_35
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_36
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_37
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_38
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 281
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_39
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_40
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_41
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_42
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_43
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_44
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_45
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 281
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_46
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 264
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_54
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_56
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 264
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_57
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_58
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 264
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_59
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_61
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 264
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_62
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_65
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_66
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_67
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_68
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_69
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_70
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_71
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_72
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_73
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_74
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_75
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_76
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_77
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_78
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_79
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_81
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_82
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_83
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 247
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_84
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 247
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_85
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_86
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_88
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_89
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_90
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_91
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 247
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_92
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 247
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_93
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_94
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_96
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_97
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_98
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_99
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 247
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_100
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 247
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_101
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 247
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_102
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_103
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_104
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_105
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_106
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 247
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_107
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 247
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_108
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 247
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_109
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_110
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_111
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_112
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_113
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_114
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 230
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_115
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_116
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_117
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_118
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_119
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_120
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_121
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 230
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_122
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_123
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_124
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_125
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_126
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 230
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_127
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_128
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_129
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_130
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_131
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_132
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_133
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_134
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 230
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_135
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_136
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_137
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_138
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 213
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_139
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 213
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_140
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_141
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 213
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_142
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_143
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_144
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_145
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 213
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_146
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 213
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_147
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 213
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_148
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_149
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 213
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_150
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_151
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_152
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 213
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_153
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 213
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_154
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_155
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_156
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_157
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_158
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_159
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 213
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_160
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 213
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_161
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_162
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_163
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_164
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_165
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_166
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_167
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_168
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_169
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_170
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_171
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_172
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_173
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_174
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_175
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_177
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_178
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_179
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_180
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_181
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_182
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 196
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_183
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_184
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_185
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 179
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_186
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 179
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_187
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 179
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_188
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 162
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_189
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 179
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_190
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 179
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_191
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 179
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_192
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 179
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_193
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 162
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_194
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 179
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_195
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 179
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 179
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_197
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 180
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_198
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 180
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_199
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 180
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_200
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 163
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_201
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 180
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_202
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 180
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_203
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 180
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_204
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 180
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_205
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 163
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_206
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 180
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_207
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_208
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_209
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_210
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_211
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_212
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_213
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_214
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_215
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_216
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_217
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_218
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_219
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_220
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_221
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_222
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_223
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_224
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 147
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_225
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_226
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_227
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 149
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_228
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 147
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_229
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 147
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_230
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 146
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_231
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 146
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_232
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 149
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_233
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 147
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_234
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 148
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_235
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_236
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_237
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 150
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_238
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 148
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_239
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 148
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_240
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_241
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_242
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 150
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_243
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 148
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_244
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_245
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_246
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 120
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_247
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 120
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_248
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 120
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_249
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 120
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_250
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 120
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_251
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_252
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_253
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_254
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 120
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_255
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 120
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_256
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 120
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_257
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 120
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_258
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 120
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_259
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_260
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_261
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 111
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_262
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 111
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_263
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 111
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_264
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 89
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_265
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_266
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_267
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_268
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_269
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_270
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_271
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 89
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_272
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 89
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_273
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 89
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_274
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 74
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_275
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 70
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_276
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 74
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_277
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 70
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_278
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 74
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_279
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 74
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_280
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 74
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_281
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 74
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_282
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 74
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_283
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 89
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_284
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 67
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_285
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 67
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_286
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 67
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_287
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 73
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_288
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 37
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_289
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 51
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_290
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 51
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_291
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 51
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_292
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 51
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_293
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 51
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_294
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_295
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 51
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_296
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 51
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_297
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 51
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_298
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 45
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_299
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 45
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_300
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 45
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_301
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_302
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 61
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_303
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 61
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_304
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 59
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_305
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 59
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_306
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 30
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_307
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_308
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_309
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 30
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_310
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_311
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 45
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_312
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 45
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_313
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 45
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_314
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 45
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_315
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 47
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_316
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_317
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_318
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 30
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_319
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 30
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_320
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 30
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_321
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 30
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_322
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 30
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_323
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_324
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 37
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_325
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_326
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 37
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_327
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 37
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_328
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 37
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_329
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 33
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_330
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 33
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_331
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 31
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_332
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 33
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_333
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 33
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_334
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_335
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 6
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_336
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_337
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 6
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_338
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 6
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_339
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_340
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_341
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_342
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_343
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_344
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_345
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 19
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_346
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 19
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_347
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mario_and_Luigi_Platform_Tiles_by_Thell_Vallock_348
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 19
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
